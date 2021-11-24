@@ -1,1 +1,2 @@
  VIRTUAL-PIANO The Virtual Piano is a simple project developed using HTML, CSS, and JavaScript. This app provides the beautiful interface of a piano system using which users can play the piano as if they are playing a real one. It consists of beautiful sounds and is also customizable.
+![Screenshot 2021-11-24 094657](https://user-images.githubusercontent.com/85170432/143188637-70a60171-cb83-45c4-b42b-bbf753e379b0.jpg)
